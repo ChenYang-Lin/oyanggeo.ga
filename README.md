@@ -1,1 +1,1 @@
-# oyanggeo.ga
+# www.oyanggeo.ga
