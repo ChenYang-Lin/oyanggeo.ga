@@ -1,4 +1,7 @@
 # www.oyanggeo.ga
 
-link above direct you to a website with some games in it.
-(it takes some time to load the game, please be patient)
+The link above will take you to the site.
+
+This site is used to host the games I made.
+You are welcome to play these games!
+(It takes some time to load the game, please be patient)
